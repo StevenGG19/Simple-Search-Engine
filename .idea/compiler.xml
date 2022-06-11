@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-classes-java.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-test-results.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task-build-tmp.main" target="11" />
+      <module name="Simple_Search_Engine1.Simple_Search_Engine-task.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Functions_as_objects-First_predicate.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Functions_as_objects-Function_composition.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Functions_as_objects-Function_generator.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Functions_as_objects-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Lambda_expressions-Function_composition.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Lambda_expressions-Max.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Lambda_expressions-Polynomial.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Lambda_expressions-Range_multiplication.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-List-Even_numbers.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-List-Indexes.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-List-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Map-Products_in_store.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Map-Sum_of_values.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Map-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_List-Add_them_all.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_List-Banana_.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_List-New_List.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_Map-Application.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_Map-Application__1_.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_Map-Help_the_robot.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_Map-Removing.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Mutable_Map-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-The_main___function-Printing_arguments.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-The_main___function-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-The_main___function-Using_arguments.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Type_system-Reverse_me_if_you_can.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Type_system-String_length.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Type_system-String_or_Int.main" target="11" />
+      <module name="Simple_Search_Engine1.Topics-Type_system-Theory.main" target="11" />
+      <module name="Simple_Search_Engine1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
